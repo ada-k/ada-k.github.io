@@ -1,2 +1,9 @@
 theme: jekyll-theme-dinky
 title: Data Science Projects Blog
+logo: ada.jpg
+show_downloads: true
+footer-links:
+  email: adakibetj@protonmail.com.com
+  github: github.com/ada-k
+  linkedin: https://www.linkedin.com/in/ada-kibet-877338189/
+  twitter: twitter.com/kj_adah
