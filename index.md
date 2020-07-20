@@ -1,34 +1,38 @@
 ## Data Science Projects Blog
 
 The site focuses on breaking down different data science projects repositories to something that can be easily read and understood. The projects range from Machine Learning, Visualizations, NLP to feature engineering and so much more.
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Web Scrapping.
+* [Reddit scraping using praw.](reddit.md)
+* [Twitter Scrapping using tweepy](twitter.md)
+* [Beautiful Soup and Selenium.](general.md)
 
-```markdown
-Syntax highlighted code block
+### Feature Engineering.
+* [Data Preprocessing](preprocess.md)
+* [Features Selection](selection.md)
 
-# Header 1
-## Header 2
-### Header 3
+### Data Analysis.
+* [Reddit scraping using praw.](reddit.md)
+* [Reddit scraping using praw.](reddit.md)
 
-- Bulleted
-- List
+### Mathematical and Statistical Methods.
+* [Distributions and Hypothesis testing](distributions.md)
+* [Operations Research](OR.md)
 
-1. Numbered
-2. List
+### Machine Learning.
+* [Regressors](regressors.md)
+* [Classifiers](classify.md)
+* [Boosters](reddit.md)
 
-**Bold** and _Italic_ and `Code` text
+### Natural Language Processing
+* [Sentiment Analysis](sentiments.md)
+* [Word Vectorizers](vectors.md)
+* [Cleaning](reddit.md)
 
-[Link](url) and ![Image](src)
-```
+### Visualisations
+* [Seaborn](seaborn.md)
+* [Matplotlib](matplotlib.md)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ada-k/ada-k.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### WebApps
+* [Streamlit](streamlit.md)
+* [Django](django.md)
