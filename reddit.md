@@ -33,8 +33,8 @@ The first step is to create an instance of reddit after importing the 2 librarie
 
 Then get the posts from the subreddit and specifiy the number of posts you're interested in:
 
-```python 
-posts = reddit.subreddit('LiverpoolFC').hot(limit = 2000)```
+
+    posts = reddit.subreddit('LiverpoolFC').hot(limit = 2000)
 
 Various attributes can be pulled from the post object. For instance:
 
@@ -47,5 +47,5 @@ The following line of code pulls these attributes, creates a dataframe then save
                         for post in posts), columns = c)
     df.to_csv('liverpool_subreddit.csv')
 
-#### To be continued to cover more features of praw
+##### To be continued to cover more features of praw.
 
