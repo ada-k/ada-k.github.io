@@ -3,9 +3,9 @@
 The site focuses on breaking down different data science projects repositories to something that can be easily read and understood. The projects range from Machine Learning, Visualizations, NLP to feature engineering and so much more.
 
 ### Web Scrapping.
-* [Reddit scraping using praw.](reddit.ipynb)
-* [Twitter Scrapping using tweepy](twitter.ipynb)
-* [Beautiful Soup and Selenium.](general.ipynb)
+* [Reddit scraping using praw.](reddit.md)
+* [Twitter Scrapping using tweepy](twitter.md)
+* [Beautiful Soup and Selenium.](general.md)
 
 ### Feature Engineering.
 * [Data Preprocessing](preprocess.md)
